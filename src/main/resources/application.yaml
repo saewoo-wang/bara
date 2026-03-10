@@ -1,0 +1,4 @@
+spring:
+  application.name: bara
+  threads.virtual.enabled: true
+  main.web-application-type: servlet
